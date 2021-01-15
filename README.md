@@ -1,16 +1,14 @@
-### Hi there 👋
+# Luan
 
-<!--
-**luan-asym/luan-asym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+### Recent Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:activity-->
+
+<!--START_SECTION:activity-->
+
+### Contact Me
+
+Discord: Luan#8269
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luan-asym.visitor-badge)
