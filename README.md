@@ -12,4 +12,4 @@ Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FH
 
 Discord: Luan#8269
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=luan-asym.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luan-asym.visitor-badge)
