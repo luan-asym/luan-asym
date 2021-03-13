@@ -5,9 +5,9 @@ Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FH
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/DataBiosphere/FHIR/pull/39) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-2. ❌ Reopened PR [#39](https://github.com/DataBiosphere/FHIR/pull/39) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-3. ❌ Closed PR [#39](https://github.com/DataBiosphere/FHIR/pull/39) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+1. 💪 Opened PR [#1](https://github.com/zeevo/react-starter/pull/1) in [zeevo/react-starter](https://github.com/zeevo/react-starter)
+2. ❌ Closed PR [#39](https://github.com/DataBiosphere/FHIR/pull/39) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+3. ❌ Reopened PR [#39](https://github.com/DataBiosphere/FHIR/pull/39) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
