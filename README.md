@@ -5,9 +5,9 @@ Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FH
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/Asymmetrik/node-fhir-server-core/pull/270) in [Asymmetrik/node-fhir-server-core](https://github.com/Asymmetrik/node-fhir-server-core)
-2. 🎉 Merged PR [#53](https://github.com/DataBiosphere/FHIR/pull/53) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-3. 🎉 Merged PR [#1](https://github.com/luan-asym/repo-template/pull/1) in [luan-asym/repo-template](https://github.com/luan-asym/repo-template)
+1. 🗣 Commented on [#267](https://github.com/Asymmetrik/node-fhir-server-core/issues/267) in [Asymmetrik/node-fhir-server-core](https://github.com/Asymmetrik/node-fhir-server-core)
+2. 💪 Opened PR [#270](https://github.com/Asymmetrik/node-fhir-server-core/pull/270) in [Asymmetrik/node-fhir-server-core](https://github.com/Asymmetrik/node-fhir-server-core)
+3. 🎉 Merged PR [#53](https://github.com/DataBiosphere/FHIR/pull/53) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
