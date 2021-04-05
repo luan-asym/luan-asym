@@ -10,8 +10,6 @@ Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FH
 3. 🗣 Commented on [#92](https://github.com/Asymmetrik/node-rest-starter/issues/92) in [Asymmetrik/node-rest-starter](https://github.com/Asymmetrik/node-rest-starter)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:activity-->
-
 ### Contact Me
 
 Discord: Luan#8888
