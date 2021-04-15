@@ -5,9 +5,9 @@ Software Engineer for Asymmetrik. Currently working on [FHIR](https://hl7.org/FH
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/luan-asym/gcp-test-playground/pull/5) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
-2. 💪 Opened PR [#4](https://github.com/luan-asym/gcp-test-playground/pull/4) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
-3. 🎉 Merged PR [#3](https://github.com/luan-asym/gcp-test-playground/pull/3) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
+1. ❌ Closed PR [#1](https://github.com/luan-asym/gcp-test-playground/pull/1) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
+2. 💪 Opened PR [#5](https://github.com/luan-asym/gcp-test-playground/pull/5) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
+3. 💪 Opened PR [#4](https://github.com/luan-asym/gcp-test-playground/pull/4) in [luan-asym/gcp-test-playground](https://github.com/luan-asym/gcp-test-playground)
 <!--END_SECTION:activity-->
 
 ### Contact Me
